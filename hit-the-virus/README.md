@@ -13,5 +13,5 @@ Lose if you run out of 9 chances.
 
 ## Acknowledgements
 
-Inspiration: https://www.gdcvault.com/play/1016487/Juice-It-or-Lose;
-Sound: https://downloads.khinsider.com/game-soundtracks/album/super-mario-world-original-soundtrack.
+- Inspiration: https://www.gdcvault.com/play/1016487/Juice-It-or-Lose;
+- Sound: https://downloads.khinsider.com/game-soundtracks/album/super-mario-world-original-soundtrack.

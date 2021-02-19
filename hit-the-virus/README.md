@@ -1,5 +1,7 @@
 # HIT THE VIRUS
 
+See my work [here](https://koapushjin.github.io/creative-coding/hit-the-virus/).
+
 ## Description
 
 This is an interactive game of launching the ball to killing the virus. Under the general background of Covid-19, humans as a community make every effort to fight against the virus. By consistant trials, we are believed to win the game and to conquer our current difficulties:D

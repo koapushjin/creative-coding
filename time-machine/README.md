@@ -1,6 +1,6 @@
-# HIT THE VIRUS
+# Time Machine
 
-See my work [here](https://koapushjin.github.io/creative-coding/time-machine/page5/index.html).
+See our work [here](https://koapushjin.github.io/creative-coding/time-machine/page5/index.html).
 
 ## About author
 
